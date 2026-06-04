@@ -350,6 +350,3 @@ The system predicts addiction risk based on user behavior and displays one of th
 
 The AI-Powered Digital Addiction Prevention Platform provides an innovative solution for identifying and preventing digital addiction using Artificial Intelligence and Machine Learning. By continuously monitoring user behavior, predicting addiction risks, and delivering personalized recommendations, the system promotes healthier technology usage and improves overall well-being. The project demonstrates the practical application of AI in digital wellness and can be further expanded into a full-scale commercial solution for individuals, families, educational institutions, and organizations.
 
-DMI College of Engineering
-
-Chennai, Tamil Nadu, India
